@@ -1,5 +1,5 @@
 # web-responsive
-***Primera pagina desarrollada con CSS puro sin ninguna librería externa.
+***Primera pagina desarrollada con CSS sin ninguna librería externa.
 A través del curso se fue abarcando diferentes conceptos de CSS con ejercicios progresivos 
 teniendo como resultado final dicho proyecto. El Objetivo principal de ésta página no está enfocado en su funcionalidad
 sino en demostrar todos los temas aprendidos de CSS***
