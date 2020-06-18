@@ -4,7 +4,7 @@ A través del curso se fue abarcando diferentes conceptos de CSS con ejercicios 
 teniendo como resultado final dicho proyecto. El Objetivo principal de ésta página no está enfocado en su funcionalidad
 sino en demostrar todos los temas aprendidos de CSS***
 
-## Temas abarcados fueron:
+## Temas abordados fueron:
 ###### Conceptos básicos sobre selectores, combinadores y cómo configurar reglas de estilo en general.
 ###### Propiedades, valores y declaraciones.
 ###### Cómo funcionan la especificidad y la herencia y por qué se llaman hojas de estilo "en cascada".
