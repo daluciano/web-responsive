@@ -2,7 +2,7 @@
 ***Primera pagina desarrollada con CSS sin ninguna librería externa.
 A través del curso se fue abarcando diferentes conceptos de CSS con ejercicios progresivos 
 teniendo como resultado final dicho proyecto. El Objetivo principal de ésta página no está enfocado en su funcionalidad
-sino en demostrar todos los temas aprendidos de CSS***
+sino en demostrar todos los temas aprendidos de CSS. Link para visualizar el proyecto https://daluciano.github.io/web-responsive/***
 
 ## Temas abordados fueron:
 ###### Conceptos básicos sobre selectores, combinadores y cómo configurar reglas de estilo en general.
